@@ -1,0 +1,14 @@
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\bin\Debug\net6.0\Elephants_VictorPholien.exe
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\bin\Debug\net6.0\Elephants_VictorPholien.deps.json
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\bin\Debug\net6.0\Elephants_VictorPholien.runtimeconfig.json
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\bin\Debug\net6.0\Elephants_VictorPholien.dll
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\bin\Debug\net6.0\Elephants_VictorPholien.pdb
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.AssemblyInfoInputs.cache
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.AssemblyInfo.cs
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.csproj.CoreCompileInputs.cache
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.dll
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\refint\Elephants_VictorPholien.dll
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.pdb
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\Elephants_VictorPholien.genruntimeconfig.cache
+C:\Users\180229\Desktop\Elephants_VictorPholien\Elephants_VictorPholien\obj\Debug\net6.0\ref\Elephants_VictorPholien.dll
